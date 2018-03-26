@@ -1,0 +1,15 @@
+{
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "datasets": [{
+        "label": "Target",
+        "type": "line",
+        "borderColor": "green",
+        "data": [65, 59, 41, 81, 56, 55, 40, 50, 45, 57, 60, 70]
+    }, {
+        "label": "Sites Delivered Actuals",
+        "type": "bar",
+        "backgroundColor": "red",
+        "borderColor": "black",
+        "data": [32, 25, 33, 88, 42]
+    }]
+}

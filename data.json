@@ -1,0 +1,85 @@
+{
+  "header": [
+    {
+      "group": "Technology Type",
+      "open": true,
+      "sub_groups": [
+        {
+          "value": "5G",
+          "type": "boolean",
+          "type_values": [
+            "true",
+            "false"
+          ],
+          "current_value": "true"
+        },
+        {
+          "value": "4G",
+          "type": "boolean",
+          "type_values": [
+            "true",
+            "false"
+          ],
+          "current_value": "true"
+        }
+      ]
+    },
+    {
+      "group": "Site Type",
+      "open": false,
+      "sub_groups": [
+        {
+          "value": "Micro",
+          "type": "boolean",
+          "type_values": [
+            "true",
+            "false"
+          ],
+          "current_value": "true"
+        },
+        {
+          "value": "Macro",
+          "type": "boolean",
+          "type_values": [
+            "true",
+            "false"
+          ],
+          "current_value": "true"
+        },
+        {
+          "value": "In Building",
+          "type": "boolean",
+          "type_values": [
+            "true",
+            "false"
+          ],
+          "current_value": "true"
+        }
+      ]
+    },
+    {
+      "group": "Build Type",
+      "open": false,
+      "sub_groups": [
+        {
+          "value": "New",
+          "type": "boolean",
+          "type_values": [
+            "true",
+            "false"
+          ],
+          "current_value": "true"
+        },
+        {
+          "value": "Convertion",
+          "type": "boolean",
+          "type_values": [
+            "true",
+            "false"
+          ],
+          "current_value": "true"
+        }
+      ]
+    }
+  ]
+}
